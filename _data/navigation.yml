@@ -1,0 +1,21 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: About
+  href: /about/
+- text: Team
+  href: /team/
+- text: Output
+  menu: # Dropdown menu (one level deep only)
+  - text: Page 1
+    href: /there-is-no-page-for-this-permalink/
+  - text: Page 2
+    href: /about/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Dropdown header" # Title for block of menu items
+  - text: External link
+    href: https://github.com/peterdesmet/petridish/blob/master/_data/navigation.yml
+    new_window: true
+- text: News
+  href: /blog/
