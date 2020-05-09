@@ -6,8 +6,6 @@ Petridish is a Jekyll theme for research project websites. Or your personal blog
 
 [Demo website](https://peterdesmet.github.io/petridish)
 
-[![screenshot](screenshot.png)](https://peterdesmet.github.io/petridish)
-
 ## Installation
 
 **Easy setup**
