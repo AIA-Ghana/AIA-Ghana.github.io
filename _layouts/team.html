@@ -19,15 +19,16 @@ description: Template for team page
       {{ member.description | markdownify }}
 
       <ul class="list-inline">
-        {% if member.orcid %}
-        <li class="list-inline-item">
-          <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
-        </li>
-        {% endif %}
 
         {% if member.email %}
         <li class="list-inline-item">
           <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
+        </li>
+        {% endif %}
+
+        {% if member.linkedin %}
+        <li class="list-inline-item">
+          <a href="https://www.linkedin.com/in/{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>
         </li>
         {% endif %}
 
