@@ -8,9 +8,9 @@ author: AIA Ghanas                    # Used for copyright statement in footer
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: info@aiagh.com.gh           # Social icon in footer
-twitter_username: aiagh           # Social icon in footer
-github_username: aiagh            # Social icon in footer
+email: info@aiagh.net           # Social icon in footer
+twitter_username: aia_gh           # Social icon in footer
+github_username: AIA-Ghana            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0

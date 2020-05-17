@@ -5,9 +5,20 @@ description: Template for team page
 
 {{ content }}
 
+<div class="row">
 {% for member in site.data.team %}
-  <div class="media team-member">
-    <img class="mr-3" src="{{ member.image | relative_url }}">
+
+
+  <div class="media team-member col-md-4">
+
+    {% if member.image %}
+    <img class="mr-3 d-block" src="{{  member.image | relative_url }}">
+    {% else %}
+    <svg data-jdenticon-value="{{member.name}}" width="100" height="100">
+    <image class="mr-3 d-block" src="{{ "/assets/img/profiles/default.png" | relative_url }}">
+</svg>
+  {% endif %}
+
     <div class="media-body">
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
@@ -45,6 +56,8 @@ description: Template for team page
         {% endif %}
       </ul>
     </div>
-  </div>
+    </div>
+
 {% endfor %}
+  </div>
 

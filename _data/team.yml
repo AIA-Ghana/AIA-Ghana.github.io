@@ -1,24 +1,219 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Enock Damtse
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  linkedin: joel-budu-23046a1a
-  email: your.email@example.com
-  github: github_name
-  twitter: twitter_name
+    I have passion for God, Data, Agric
+  image: assets/img/profiles/profile-004.jpg
+  email: enochdamtse@gmail.com
 
-- name: Turanga Leela
-  role: Captain
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
-  description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+- name: Isaac Akwetey
+  description: > # Can be Markdown
+    I have passion for God, Data, Agric
+  linkedin: isaac-akwetey
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Jeffery Ansah PhD
+  role: Core Team Member
+  image: assets/img/profiles/profile-001.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    I build AI products that excites through research and innovation
+  linkedin: jeffery-ansah
+
+- name: Joel Budu
+  role: Core Team Member
+  image: assets/img/profiles/profile-002.jpg
+  description: >
+    I build robots that'll take your job 😈. [@techconfab](https://bit.ly/joelbudu) podcast host
+  linkedin: joelbudu
+  twitter : j0eBee
+  github : joelbudu
+
+
+- name: Michael Hope Setriakor
+  image: assets/img/profiles/profile-003.jpg
+  description: >
+    I am an AI Enthusiast 
+  linkedin: michael-hope-setriakor-13a539142
+
+- name: Derek Kweku Degbedzui
+  image: assets/img/profiles/profile-005.png
+  description: >
+    I am a Research Data Scientist with a passion for machine learning and its applications to research and business.
+  linkedin: derek-k-degbedzui-mba-34b270163
+  twitter : KDDerek1
+  github : jrdeco560
+
+- name: Edward Jacob Aboagye Baidoo
+  image: assets/img/profiles/profile-006.jpg
+  description: >
+    Learning to apply AI to solve complex human problems 
+  linkedin: ejabaidoo
+  twitter : thedevtherapy
+  github : edwardbaidoo
+
+- name : Omar Majdoub 
+  role: Core Team Member
+  image : assets/img/profiles/profile-007.jpg
+  description : >
+    Currently work as a Consultant and Trainer in Blockchain, ML, and Cloud Technologies.
+  email: ganzaro.af@gmail.com
+
+- name : Appau Ernest
+  description : I am a life long Learner ;)
+  linkedin : appauernestkofimensah
+
+- name : Abubakar Mohammed 
+  description : My name is Abubakar Mohammed and my main area of interest is visualisation and predictive analytics. Generally though, anything data interests me.
+  twitter: tayibuabu
+
+- name : Usheninte Dangana
+  description : I create solutions with technology
+  linkedin : usheninte
+  github : Usheninte
+  twitter : Usheninte
+
+- name : Emmanuel A.S Amoaku
+  image : assets/img/profiles/profile-008.jpg
+  description : For machines to think, they need to see and I teach them to do that.
+  linkedin : emmanuel-amoaku
+
+- name : Charles Dzokoto
+  description : I believe the world needs smarter humans and not only smarter technologies and that's whi I am. 
+
+- name : Nyarko Kwaku Elvis
+  description : I am here in this world to make change and make my love ones proud.
+  linkedin : elvis-kwaku-nyarko-b43192119
+
+- name : Nicholas Osafo Adamu
+  role: Core Team Member
+  github : noadamu
+  description : We live once so build stuff that matters and build it well
+  image : assets/img/profiles/profile-009.jpg
+
+- name: Bismarck Bamdo Odoom
+  description : I am in this world to make a difference
+  github : BismarckBamfo
+  linkedin: bismarck-bamfo-odoom-594717149
+  twitter: BismarckBamfo
+
+- name: Creppy Anna Esinu Ayorkor 
+  description : Meaningful insights are buried within raw data.I dig them out and turn them into treasure 
+  linkedin : esinu-creppy-63b0991a4
+  image : assets/img/profiles/profile-010.jpg
+
+- name : Ghaffaru Mudashiru
+  linkedin : ghaffaru-mudashiru-39798ab9
+  twitter :  GhaffarM
+  github : Ghaffaru15
+  description : Passionate about working with data
+  image : assets/img/profiles/profile-020.jpg
+
+
+- name : Eugene Dumoga
+  twitter : eugene_dumoga
+  linkedin : eugene-dumoga-4a392b111ga/
+  description : I'm a Web Developer with some basic working knowledge of Data Science & AI
+
+- name : Samuel Boateng 
+  twitter : samkwasiboateng
+  github : paaKways 
+  description : I am interested in anything that requires even a dash of creativity
+  image : assets/img/profiles/profile-011.jpg
+
+- name : Armah Michael 
+  linkedin : michael-armah-87ba63180/
+  description : I believe  the sole aim of everyone  on this earth is to make the world a better place 
+
+- name : Charlette Desire N’Guessan 
+  linkedin : charlettedesire
+  description : I am passionate about solving problems through technology in Africa and have a degree in Electronic and Software Engineering. I am a co-author of the AI BOOK published by Wiley in April 2020. As a co-founder of BACE GROUP,  I am proud of our work, a disruptive tech startup that provides facial recognition services powered by AI, helping African Businesses to Fight Online identity Fraud.
+
+- name : Toffick Mohammed
+  linkedin : toffick-mohammed-178949164
+  github : toffickm
+  twitter : mt252
+  description : I want to use AI to transform the health industry in Ghana ,I'm still learning for that
+
+- name : Gabriel
+  linkedin : gabriel-addo-a37919187
+  github :  gaby96
+  twitter :  gabrieladdo64
+  description : I’m an Artificial intelligence enthusiast and a web developer with my technologies mainly python and php
+
+- name : Debrah Kwesi Buabeng 
+  github : Akora-IngDKB
+  twitter : AkoraIng_DKB
+  linkedin : kwesi-buabeng-debrah-2744b8161
+  description : I want to make the world a better place.
+
+- name : Frederick Obeng-Nyarko
+  linkedin : frederick-o-12081aa2
+  github : FreeHill
+  twitter : f_o_nyarko
+  image : assets/img/profiles/profile-013.jpg
+  description : I’m a young guy with a deep interest in merging AI and IoT technologies to develop robust systems 
+
+- name : Raphael Blankson
+  github : iKwesi
+  twitter : raphaelblankson
+  description : To make the world a better place through AI and quantum ML
+  image : assets/img/profiles/profile-021.jpg
+
+
+- name : Seyram Kwame Attah
+  linkedin : seyram-kwame-attah-cisa-cism-iso-lead-auditor-implementer-786a6a7b/
+  description : A self motivated professional who wants to contribute in the field of Cybersecurity leveraging on AI
+  image : assets/img/profiles/profile-014.jpg
+
+- name : Joseph Segbefia
+  linkedin : joseph-segbefia-12560956
+  description : A data enthusiast. A beginner though, but I'm gaining grounds quickly in the data science field. 
+
+- name : Benjamin Kwapong
+  linkedin : benjaminkwapong
+  github : bkwapong
+  twitter : KwapongBenjamin
+  description : I am a computer science PhD student and a graduate teaching (and research) assistant  at university of Massachusetts Boston
+  image : assets/img/profiles/profile-015.jpg
+
+- name : Edward Lampoh
+  linkedin : edward-lampoh-a91338b0
+  description : I am passionate about maximizing cost effective health care delivery. Ultimately, I believe we can create a world where people don't have to pay for their health.
+
+- name : Quaye Worsley
+  github : ChocoPath
+  twitter : ChocolatePath
+  description : Work smart, don't reinvent the wheel
+  image : assets/img/profiles/profile-016.jpg
+
+- name : Salomey Addo
+  github : SallyAfua
+  description : Live to the max!
+  image : assets/img/profiles/profile-017.jpg
+
+- name : Faustina Asare
+  twitter : cold_summer
+  description : > 
+    "No mission is too difficult 
+    We have the ability to do more than we could ever imagine ."
+
+- name : Samuel Wendolin Ketechie
+  linkedin : samuel-ketechie-988b44113
+  github : SAMUEL-KETECHIE
+  twitter: Samuel_Wendolin
+  description : I am a Full-stack developer in the fields of Web development, Desktop application development, Machine learning and Enterprise application development.
+  image : assets/img/profiles/profile-018.jpg
+
+- name : Muritala Tobi Idris
+  description : I'm a student of the University of Cape Coast, a full stack developer and data science enthusiast. I seek to make the world a better place.
+
+- name : Jonas Afutu
+  linkedin : jonas-afutu
+  description : I want to solve problems using AI
+  image : assets/img/profiles/profile-019.jpg
+
+
+
+
+
+
+
