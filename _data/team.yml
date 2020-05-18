@@ -1,24 +1,5 @@
 # Project team members listed below will appear on the /team page
 
-- name: Enock Damtse
-  description: > # Can be Markdown
-    I have passion for God, Data, Agric
-  image: assets/img/profiles/profile-004.jpg
-  email: enochdamtse@gmail.com
-  interests: 
-    - Computer Vision
-    - NLP
-    - Robotics
-
-- name: Isaac Akwetey
-  description: > # Can be Markdown
-    I have passion for God, Data, Agric
-  linkedin: isaac-akwetey
-  interests: 
-    - Computer Vision
-    - Predictive Analysis
-    - Data Engineering
-
 - name: Jeffery Ansah PhD
   role: Core Team Member
   image: assets/img/profiles/profile-001.jpg
@@ -42,6 +23,29 @@
     - Computer Vision
     - Robotics
     - Deep Learning
+
+- name : Nicholas Osafo Adamu
+  role: Core Team Member
+  github : nodamu
+  description : We live once so build stuff that matters and build it well
+  image : assets/img/profiles/profile-009.jpg
+  interests: 
+    - Computer Vision
+    - MLOps
+    - Data Engineering
+
+
+- name : Omar Majdoub 
+  role: Core Team Member
+  image : assets/img/profiles/profile-007.jpg
+  description : >
+    Currently work as a Consultant and Trainer in Blockchain, ML, and Cloud Technologies.
+  email: ganzaro.af@gmail.com
+  interests: 
+    - Computer Vision
+    - Reinforcement Learning
+    - Data Engineering
+
 
 
 - name: Michael Hope Setriakor
@@ -78,17 +82,15 @@
    - NLP
    - Robotics
 
-- name : Omar Majdoub 
-  role: Core Team Member
-  image : assets/img/profiles/profile-007.jpg
-  description : >
-    Currently work as a Consultant and Trainer in Blockchain, ML, and Cloud Technologies.
-  email: ganzaro.af@gmail.com
+- name: Isaac Akwetey
+  description: > 
+    I have passion for God, Data, Agric
+  linkedin: isaac-akwetey
   interests: 
     - Computer Vision
-    - Reinforcement Learning
+    - Predictive Analysis
     - Data Engineering
-  
+
 
 - name : Appau Ernest
   description : I am a life long Learner ;)
@@ -139,16 +141,6 @@
     - Recommendation Systems
     - Visualization
     - Quantum ML
-
-- name : Nicholas Osafo Adamu
-  role: Core Team Member
-  github : nodamu
-  description : We live once so build stuff that matters and build it well
-  image : assets/img/profiles/profile-009.jpg
-  interests: 
-    - Computer Vision
-    - MLOps
-    - Data Engineering
 
 - name: Bismarck Bamdo Odoom
   description : I am in this world to make a difference
@@ -357,6 +349,14 @@
     - Computer Vision
     - NLP
     - Predictive Analytics
+ 
+- name: Enock Damtse
+  image: assets/img/profiles/profile-004.jpg
+  email: enochdamtse@gmail.com
+  interests: 
+    - Computer Vision
+    - NLP
+    - Robotics
 
 
 
