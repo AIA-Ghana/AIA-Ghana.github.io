@@ -29,6 +29,14 @@ description: Template for team page
 
       {{ member.description | markdownify }}
 
+        <ul class="list-inline">
+      {% for interest in member.interests %}
+      <li class="list-inline-item">
+         <span class="badge badge-light">{{ interest}}</span>
+        </li>
+      {% endfor %}
+      </ul>
+
       <ul class="list-inline">
 
         {% if member.email %}
@@ -55,6 +63,7 @@ description: Template for team page
         </li>
         {% endif %}
       </ul>
+
     </div>
     </div>
 
