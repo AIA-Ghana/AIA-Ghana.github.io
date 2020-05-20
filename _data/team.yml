@@ -46,7 +46,18 @@
     - Reinforcement Learning
     - Data Engineering
 
-
+- name: Derek Kweku Degbedzui
+  role: Core Team Member
+  image: assets/img/profiles/profile-005.png
+  description: >
+    I am a Research Data Scientist with a passion for machine learning and its applications to research and business.
+  linkedin: derek-k-degbedzui-mba-34b270163
+  twitter : KDDerek1
+  github : jrdeco560
+  interests: 
+    - Data Engineering
+    - NLP
+    - Ethics in AI
 
 - name: Michael Hope Setriakor
   image: assets/img/profiles/profile-003.jpg
@@ -58,17 +69,6 @@
     - Ethics in AI
     - Reinforcement Learning
 
-- name: Derek Kweku Degbedzui
-  image: assets/img/profiles/profile-005.png
-  description: >
-    I am a Research Data Scientist with a passion for machine learning and its applications to research and business.
-  linkedin: derek-k-degbedzui-mba-34b270163
-  twitter : KDDerek1
-  github : jrdeco560
-  interests: 
-    - Data Engineering
-    - NLP
-    - Ethics in AI
 
 - name: Edward Jacob Aboagye Baidoo
   image: assets/img/profiles/profile-006.jpg
