@@ -24,6 +24,16 @@
     - Robotics
     - Deep Learning
 
+- name : Salomey Addo
+  role: Core Team Member
+  github : SallyAfua
+  description : Live to the max!
+  image : assets/img/profiles/profile-022.jpg
+  interests: 
+    - Predictive Analytics
+    - NLP
+    - Visualization
+
 - name : Nicholas Osafo Adamu
   role: Core Team Member
   github : nodamu
@@ -34,13 +44,14 @@
     - MLOps
     - Data Engineering
 
-
 - name : Omar Majdoub 
   role: Core Team Member
   image : assets/img/profiles/profile-007.jpg
   description : >
-    Currently work as a Consultant and Trainer in Blockchain, ML, and Cloud Technologies.
-  email: ganzaro.af@gmail.com
+    I love exploring use of Computer Vision and ML in generating new content
+  github: ganzaro
+  linkedin: omar-majdoub-2481599
+  twitter: ganzaro1
   interests: 
     - Computer Vision
     - Reinforcement Learning
@@ -59,6 +70,20 @@
     - NLP
     - Ethics in AI
 
+- name: Edward Jacob Aboagye Baidoo
+  role: Core Team Member
+  image: assets/img/profiles/profile-006.jpg
+  description: >
+    Learning to apply AI to solve complex human problems 
+  linkedin: ejabaidoo
+  twitter : thedevtherapy
+  github : edwardbaidoo
+  interests: 
+    - Computer Vision
+    - NLP
+    - Robotics
+
+
 - name: Michael Hope Setriakor
   image: assets/img/profiles/profile-003.jpg
   description: >
@@ -69,19 +94,6 @@
     - Ethics in AI
     - Reinforcement Learning
 
-
-- name: Edward Jacob Aboagye Baidoo
-  image: assets/img/profiles/profile-006.jpg
-  description: >
-    Learning to apply AI to solve complex human problems 
-  linkedin: ejabaidoo
-  twitter : thedevtherapy
-  github : edwardbaidoo
-  interests: 
-   - Computer Vision
-   - NLP
-   - Robotics
-
 - name: Isaac Akwetey
   description: > 
     I have passion for God, Data, Agric
@@ -91,6 +103,15 @@
     - Predictive Analysis
     - Data Engineering
 
+- name: Joshua Opoku Agyemang
+  description: >
+    I am obsessed with changing the world and making it a better place for everyone
+  linkedin: Joshua Opoku Agyemang Otoo
+  twitter: joshoaotoo
+  interests: 
+    - Robotics
+    - Predictive Analysis
+    - Visualization
 
 - name : Appau Ernest
   description : I am a life long Learner ;)
@@ -171,7 +192,6 @@
     - Computer Vision
     - NLP
     - Predictive Analytics
-
 
 - name : Eugene Dumoga
   twitter : eugene_dumoga
@@ -303,15 +323,6 @@
     - Computer Vision
     - NLP
     - Robotics
-
-- name : Salomey Addo
-  github : SallyAfua
-  description : Live to the max!
-  image : assets/img/profiles/profile-022.jpg
-  interests: 
-    - Predictive Analytics
-    - NLP
-    - Visualization
 
 - name : Faustina Asare
   twitter : cold_summer
