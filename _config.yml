@@ -1,7 +1,7 @@
 # SITE SETTINGS
 title: AIA Ghana                        # Title in top navigation bar (navbar) and <head>
 description: Artificial Intelligence Association Ghana # Site description in <head>
-author: AIA Ghanas                    # Used for copyright statement in footer
+author: AIA Ghana                    # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
