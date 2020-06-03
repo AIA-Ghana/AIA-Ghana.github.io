@@ -25,9 +25,11 @@ collections:
       - label: "Team"
         name: "team"
         file: "_data/team.yml"
+        editor:
+          preview: false
         fields:
-          - label: "Team member"
-            name: "team_member"
+          - label: "Team members"
+            name: "items"
             widget: "list"
             fields:
               - {label: "Name", name: "name", widget: "string"}
