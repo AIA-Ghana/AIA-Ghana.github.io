@@ -19,3 +19,24 @@ collections:
       - {label: "Featured Image", name: "background", widget: "image"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Pages"
+    name: "Pages"
+    files:
+      - label: "Team"
+        name: "team"
+        file: "_data/team.yml"
+        fields:
+          - label: Team member
+            name: team_member
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Role, name: role, widget: string}
+              - {label: Description, name: description, widget: markdown}
+              - {label: Photo, name: photo, widget: image}
+              - {label: LinkedIn, name: linkedin, widget: string}
+              - {label: GitHub, name: github, widget: string}
+              - {label: Twitter, name: twitter, widget: string}
+              - {label: Interests, name: interests, widget: list}
+
+
