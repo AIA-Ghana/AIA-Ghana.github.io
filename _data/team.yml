@@ -1,376 +1,423 @@
-# Project team members listed below will appear on the /team page
-items: 
+items:
   - name: Jeffery Ansah PhD
     role: Core Team Member
     image: /assets/img/profiles/profile-001.jpg
-    description: >
+    description: |
       I build AI products that excites through research and innovation
     linkedin: jeffery-ansah
-    interests: 
+    interests:
       - NLP
       - Predictive Analysis
       - MLOps
-
   - name: Joel Budu
     role: Core Team Member
     image: /assets/img/profiles/profile-002.jpg
     description: >
-      I build robots that'll take your job 😈. [@techconfab](https://bit.ly/joelbudu) podcast host
+      I build robots that'll take your job 😈.
+      [@techconfab](https://bit.ly/joelbudu) podcast host
     linkedin: joelbudu
-    twitter : j0eBee
-    github : joelbudu
-    interests: 
+    twitter: j0eBee
+    github: joelbudu
+    interests:
       - Computer Vision
       - Robotics
       - Deep Learning
-
-  - name : Salomey Addo
+  - name: Salomey Addo
     role: Core Team Member
-    github : SallyAfua
-    description : Live to the max!
-    image : /assets/img/profiles/profile-022.jpg
-    interests: 
+    github: SallyAfua
+    description: Live to the max!
+    image: /assets/img/profiles/profile-022.jpg
+    interests:
       - Predictive Analytics
       - NLP
       - Visualization
-
-  - name : Nicholas Osafo Adamu
+  - name: Nicholas Osafo Adamu
     role: Core Team Member
-    github : nodamu
-    description : We live once so build stuff that matters and build it well
-    image : /assets/img/profiles/profile-009.jpg
-    interests: 
+    github: nodamu
+    description: We live once so build stuff that matters and build it well
+    image: /assets/img/profiles/profile-009.jpg
+    interests:
       - Computer Vision
       - MLOps
       - Data Engineering
-
-  - name : Omar Majdoub 
+  - name: Omar Majdoub
     role: Core Team Member
-    image : /assets/img/profiles/profile-007.jpg
-    description : >
+    image: /assets/img/profiles/profile-007.jpg
+    description: |
       I love exploring use of Computer Vision and ML in generating new content
     github: ganzaro
     linkedin: omar-majdoub-2481599
     twitter: ganzaro1
-    interests: 
+    interests:
       - Computer Vision
       - Reinforcement Learning
       - Data Engineering
-
   - name: Derek Kweku Degbedzui
     role: Core Team Member
     image: /assets/img/profiles/profile-005.png
     description: >
-      I am a Research Data Scientist with a passion for machine learning and its applications to research and business.
+      I am a Research Data Scientist with a passion for machine learning and its
+      applications to research and business.
     linkedin: derek-k-degbedzui-mba-34b270163
-    twitter : KDDerek1
-    github : jrdeco560
-    interests: 
+    twitter: KDDerek1
+    github: jrdeco560
+    interests:
       - Data Engineering
       - NLP
       - Ethics in AI
-
   - name: Edward Jacob Aboagye Baidoo
     role: Core Team Member
     image: /assets/img/profiles/profile-006.jpg
-    description: >
+    description: |
       Learning to apply AI to solve complex human problems 
     linkedin: ejabaidoo
-    twitter : thedevtherapy
-    github : edwardbaidoo
-    interests: 
+    twitter: thedevtherapy
+    github: edwardbaidoo
+    interests:
       - Computer Vision
       - NLP
       - Robotics
-
-
   - name: Michael Hope Setriakor
     image: /assets/img/profiles/profile-003.jpg
-    description: >
+    description: |
       I am an AI Enthusiast 
     linkedin: michael-hope-setriakor-13a539142
-    interests: 
+    interests:
       - Computer Vision
       - Ethics in AI
       - Reinforcement Learning
-
   - name: Isaac Akwetey
-    description: > 
+    description: |
       I have passion for God, Data, Agric
     linkedin: isaac-akwetey
-    interests: 
+    interests:
       - Computer Vision
       - Predictive Analysis
       - Data Engineering
-
   - name: Joshua Opoku Agyemang
     description: >
-      I am obsessed with changing the world and making it a better place for everyone
+      I am obsessed with changing the world and making it a better place for
+      everyone
     linkedin: Joshua Opoku Agyemang Otoo
     twitter: joshoaotoo
-    interests: 
+    interests:
       - Robotics
       - Predictive Analysis
       - Visualization
-
-  - name : Appau Ernest
-    description : I am a life long Learner ;)
-    linkedin : appauernestkofimensah
-    interests: 
+  - name: Appau Ernest
+    description: I am a life long Learner ;)
+    linkedin: appauernestkofimensah
+    interests:
       - Computer Vision
       - NLP
       - Predictive Analytics
-
-  - name : Abubakar Mohammed 
-    description : My name is Abubakar Mohammed and my main area of interest is visualisation and predictive analytics. Generally though, anything data interests me.
+  - name: Abubakar Mohammed
+    description: My name is Abubakar Mohammed and my main area of interest is
+      visualisation and predictive analytics. Generally though, anything data
+      interests me.
     twitter: tayibuabu
-    interests: 
+    interests:
       - Predictive Analytics
       - Data Engineering
       - Visualization
-
-  - name : Usheninte Dangana
-    description : I create solutions with technology
-    linkedin : usheninte
-    github : Usheninte
-    twitter : Usheninte
-    interests: 
+  - name: Usheninte Dangana
+    description: I create solutions with technology
+    linkedin: usheninte
+    github: Usheninte
+    twitter: Usheninte
+    interests:
       - Reinforcement learning
       - MLOps
       - Recommendation Systems
-
-  - name : Emmanuel A.S Amoaku
-    image : /assets/img/profiles/profile-008.jpg
-    description : For machines to think, they need to see and I teach them to do that.
-    linkedin : emmanuel-amoaku
-    interests: 
+  - name: Emmanuel A.S Amoaku
+    image: /assets/img/profiles/profile-008.jpg
+    description: For machines to think, they need to see and I teach them to do that.
+    linkedin: emmanuel-amoaku
+    interests:
       - Computer Vision
       - Robotics
       - MLOps
-
-  - name : Charles Dzokoto
-    description : I believe the world needs smarter humans and not only smarter technologies and that's whi I am. 
-    interests: 
+  - name: Charles Dzokoto
+    description: I believe the world needs smarter humans and not only smarter
+      technologies and that's whi I am.
+    interests:
       - Predictive Analytics
       - Data Engineering
       - Visualization
-
-  - name : Nyarko Kwaku Elvis
-    description : I am here in this world to make change and make my love ones proud.
-    linkedin : elvis-kwaku-nyarko-b43192119
-    interests: 
+  - name: Nyarko Kwaku Elvis
+    description: I am here in this world to make change and make my love ones proud.
+    linkedin: elvis-kwaku-nyarko-b43192119
+    interests:
       - Recommendation Systems
       - Visualization
       - Quantum ML
-
   - name: Bismarck Bamdo Odoom
-    description : I am in this world to make a difference
-    github : BismarckBamfo
+    description: I am in this world to make a difference
+    github: BismarckBamfo
     linkedin: bismarck-bamfo-odoom-594717149
     twitter: BismarckBamfo
-    interests: 
+    interests:
       - NLP
       - Reinforcement Learning
       - Computer Vision
-
-  - name: Creppy Anna Esinu Ayorkor 
-    description : Meaningful insights are buried within raw data.I dig them out and turn them into treasure 
-    linkedin : esinu-creppy-63b0991a4
-    image : /assets/img/profiles/profile-010.jpg
-    interests: 
+  - name: Creppy Anna Esinu Ayorkor
+    description: Meaningful insights are buried within raw data.I dig them out and
+      turn them into treasure
+    linkedin: esinu-creppy-63b0991a4
+    image: /assets/img/profiles/profile-010.jpg
+    interests:
       - Predictive Analytics
       - Data Engineering
       - Visualization
-
-  - name : Ghaffaru Mudashiru
-    linkedin : ghaffaru-mudashiru-39798ab9
-    twitter :  GhaffarM
-    github : Ghaffaru15
-    description : Passionate about working with data
-    image : /assets/img/profiles/profile-020.jpg
-    interests: 
+  - name: Ghaffaru Mudashiru
+    linkedin: ghaffaru-mudashiru-39798ab9
+    twitter: GhaffarM
+    github: Ghaffaru15
+    description: Passionate about working with data
+    image: /assets/img/profiles/profile-020.jpg
+    interests:
       - Computer Vision
       - NLP
       - Predictive Analytics
-
-  - name : Eugene Dumoga
-    twitter : eugene_dumoga
-    linkedin : eugene-dumoga-4a392b111ga/
-    description : I'm a Web Developer with some basic working knowledge of Data Science & AI
-    interests: 
+  - name: Eugene Dumoga
+    twitter: eugene_dumoga
+    linkedin: eugene-dumoga-4a392b111ga/
+    description: I'm a Web Developer with some basic working knowledge of Data Science & AI
+    interests:
       - MLOps
       - Visualization
-
-  - name : Samuel Boateng 
-    twitter : samkwasiboateng
-    github : paaKways 
-    description : I am interested in anything that requires even a dash of creativity
-    image : /assets/img/profiles/profile-011.jpg
-    interests: 
+  - name: Samuel Boateng
+    twitter: samkwasiboateng
+    github: paaKways
+    description: I am interested in anything that requires even a dash of creativity
+    image: /assets/img/profiles/profile-011.jpg
+    interests:
       - Predictive Analytics
       - NLP
       - Computer Vision
-
-  - name : Armah Michael 
-    linkedin : michael-armah-87ba63180/
-    description : I believe  the sole aim of everyone  on this earth is to make the world a better place 
-    interests: 
+  - name: Armah Michael
+    linkedin: michael-armah-87ba63180/
+    description: I believe  the sole aim of everyone  on this earth is to make the
+      world a better place
+    interests:
       - Recommendation systems
       - Predictive Analytics
       - Computer Vision
-
-  - name : Charlette Desire N’Guessan 
-    linkedin : charlettedesire
-    description : I am passionate about solving problems through technology in Africa.
-    interests: 
+  - name: Charlette Desire N’Guessan
+    linkedin: charlettedesire
+    description: I am passionate about solving problems through technology in Africa.
+    interests:
       - Visualization
       - Quantum ML
       - Ethics in AI
-
-  - name : Toffick Mohammed
-    linkedin : toffick-mohammed-178949164
-    github : toffickm
-    twitter : mt252
-    description : I want to use AI to transform the health industry in Ghana ,I'm still learning for that
-    interests: 
+  - name: Toffick Mohammed
+    linkedin: toffick-mohammed-178949164
+    github: toffickm
+    twitter: mt252
+    description: I want to use AI to transform the health industry in Ghana ,I'm
+      still learning for that
+    interests:
       - Predictive Analytics
       - Robotics
       - Visualization
-
-  - name : Gabriel
-    linkedin : gabriel-addo-a37919187
-    github :  gaby96
-    twitter :  gabrieladdo64
-    description : I’m an Artificial intelligence enthusiast and a web developer with my technologies mainly python and php
-    interests: 
+  - name: Gabriel
+    linkedin: gabriel-addo-a37919187
+    github: gaby96
+    twitter: gabrieladdo64
+    description: I’m an Artificial intelligence enthusiast and a web developer with
+      my technologies mainly python and php
+    interests:
       - Robotics
       - Graphs
       - Visualization
-
-  - name : Debrah Kwesi Buabeng 
-    github : Akora-IngDKB
-    twitter : AkoraIng_DKB
-    linkedin : kwesi-buabeng-debrah-2744b8161
-    description : I want to make the world a better place
-    interests: 
+  - name: Debrah Kwesi Buabeng
+    github: Akora-IngDKB
+    twitter: AkoraIng_DKB
+    linkedin: kwesi-buabeng-debrah-2744b8161
+    description: I want to make the world a better place
+    interests:
       - Reinforcement Learning
       - NLP
       - Computer Vision
-
-  - name : Frederick Obeng-Nyarko
-    linkedin : frederick-o-12081aa2
-    github : FreeHill
-    twitter : f_o_nyarko
-    image : /assets/img/profiles/profile-013.jpg
-    description : I’m a young guy with a deep interest in merging AI and IoT technologies to develop robust systems 
-    interests: 
+  - name: Frederick Obeng-Nyarko
+    linkedin: frederick-o-12081aa2
+    github: FreeHill
+    twitter: f_o_nyarko
+    image: /assets/img/profiles/profile-013.jpg
+    description: I’m a young guy with a deep interest in merging AI and IoT
+      technologies to develop robust systems
+    interests:
       - Computer Vision
       - Robotics
       - Data Engineering
-
-  - name : Raphael Blankson
-    github : iKwesi
-    twitter : raphaelblankson
-    description : To make the world a better place through AI and quantum ML
-    image : /assets/img/profiles/profile-021.jpg
-    interests: 
+  - name: Raphael Blankson
+    github: iKwesi
+    twitter: raphaelblankson
+    description: To make the world a better place through AI and quantum ML
+    image: /assets/img/profiles/profile-021.jpg
+    interests:
       - Quantum ML
       - Robotics
       - Reinforcement Learning
-
-  - name : Seyram Kwame Attah
-    linkedin : seyram-kwame-attah-cisa-cism-iso-lead-auditor-implementer-786a6a7b/
-    description : A self motivated professional who wants to contribute in the field of Cybersecurity leveraging on AI
-    image : /assets/img/profiles/profile-014.jpg
-    interests: 
+  - name: Seyram Kwame Attah
+    linkedin: seyram-kwame-attah-cisa-cism-iso-lead-auditor-implementer-786a6a7b/
+    description: A self motivated professional who wants to contribute in the field
+      of Cybersecurity leveraging on AI
+    image: /assets/img/profiles/profile-014.jpg
+    interests:
       - Recommendation systems
       - Reinforcement Learning
       - Ethics in AI
-
-  - name : Joseph Segbefia
-    linkedin : joseph-segbefia-12560956
-    description : A data enthusiast. A beginner though, but I'm gaining grounds quickly in the data science field. 
-    interests: 
+  - name: Joseph Segbefia
+    linkedin: joseph-segbefia-12560956
+    description: A data enthusiast. A beginner though, but I'm gaining grounds
+      quickly in the data science field.
+    interests:
       - Visualization
       - Data Engineering
       - Recommendation Systems
-
-  - name : Benjamin Kwapong
-    linkedin : benjaminkwapong
-    github : bkwapong
-    twitter : KwapongBenjamin
-    description : I am a computer science PhD student and a graduate teaching (and research) assistant  at university of Massachusetts Boston
-    image : /assets/img/profiles/profile-015.jpg
-    interests: 
+  - name: Benjamin Kwapong
+    linkedin: benjaminkwapong
+    github: bkwapong
+    twitter: KwapongBenjamin
+    description: I am a computer science PhD student and a graduate teaching (and
+      research) assistant  at university of Massachusetts Boston
+    image: /assets/img/profiles/profile-015.jpg
+    interests:
       - Computer Vision
       - Recommendation Systems
       - Graphs
-
-  - name : Edward Lampoh
-    linkedin : edward-lampoh-a91338b0
-    description : I am passionate about maximizing cost effective health care delivery. Ultimately, I believe we can create a world where people don't have to pay for their health.
-    interests: 
+  - name: Edward Lampoh
+    linkedin: edward-lampoh-a91338b0
+    description: I am passionate about maximizing cost effective health care
+      delivery. Ultimately, I believe we can create a world where people don't
+      have to pay for their health.
+    interests:
       - Data Engineering
       - Computer Vision
       - NLP
-
-  - name : Quaye Worsley
-    github : ChocoPath
-    twitter : ChocolatePath
-    description : Work smart, don't reinvent the wheel
-    image : /assets/img/profiles/profile-016.jpg
-    interests: 
+  - name: Quaye Worsley
+    github: ChocoPath
+    twitter: ChocolatePath
+    description: Work smart, don't reinvent the wheel
+    image: /assets/img/profiles/profile-016.jpg
+    interests:
       - Computer Vision
       - NLP
       - Robotics
-
-  - name : Faustina Asare
-    twitter : cold_summer
-    description : > 
-      "No mission is too difficult 
-      We have the ability to do more than we could ever imagine ."
-    interests: 
+  - name: Faustina Asare
+    twitter: cold_summer
+    description: >
+      "No mission is too difficult  We have the ability to do more than we could
+      ever imagine ."
+    interests:
       - Computer Vision
       - Robotics
       - Data Engineering
-
-  - name : Samuel Wendolin Ketechie
-    linkedin : samuel-ketechie-988b44113
-    github : SAMUEL-KETECHIE
+  - name: Samuel Wendolin Ketechie
+    linkedin: samuel-ketechie-988b44113
+    github: SAMUEL-KETECHIE
     twitter: Samuel_Wendolin
-    description : I am a Full-stack developer in the fields of Web development, Desktop application development, Machine learning and Enterprise application development.
-    image : /assets/img/profiles/profile-018.jpg
-    interests: 
+    description: I am a Full-stack developer in the fields of Web development,
+      Desktop application development, Machine learning and Enterprise
+      application development.
+    image: /assets/img/profiles/profile-018.jpg
+    interests:
       - Data Engineering
       - Computer Vision
       - Robotics
-
-  - name : Muritala Tobi Idris
-    description : I'm a student of the University of Cape Coast, a full stack developer and data science enthusiast. I seek to make the world a better place.
-    interests: 
+  - name: Muritala Tobi Idris
+    description: I'm a student of the University of Cape Coast, a full stack
+      developer and data science enthusiast. I seek to make the world a better
+      place.
+    interests:
       - Computer Vision
       - Predictive Analytics
       - Visualization
-
-  - name : Jonas Afutu
-    linkedin : jonas-afutu
-    description : I want to solve problems using AI
-    image : /assets/img/profiles/profile-019.jpg
-    interests: 
+  - name: Jonas Afutu
+    linkedin: jonas-afutu
+    description: I want to solve problems using AI
+    image: /assets/img/profiles/profile-019.jpg
+    interests:
       - Computer Vision
       - NLP
       - Predictive Analytics
-  
   - name: Enock Damtse
     image: /assets/img/profiles/profile-004.jpg
     email: enochdamtse@gmail.com
-    interests: 
+    interests:
       - Computer Vision
       - NLP
       - Robotics
-
-
-
-
-
-
+  - name: Miracle E Tettevi
+    linkedin: miracle-tettevi-864a65197
+    interests:
+      - Computer Vision
+      - Predictive Analytics
+      - Recommendation Systems
+    description: I am in this world to make an impact.
+    image: /assets/img/uploads/profile-023.jpg
+  - name: "Ofori Daniel "
+    github: Loyedan
+    twitter: Loyedan
+    interests:
+      - Predictive Analytics
+    description: I am a laboratory scientist and a security researcher interested in
+      building the AI community.
+  - name: David Asem
+    linkedin: david-asem
+    github: dyasem
+    twitter: davidasem_
+    interests:
+      - Computer Vision
+      - Reinforcement Learning
+      - Robotics
+    description: I want to make an impact in the field of computing
+    image: /assets/img/uploads/fb_img_1552809985804-david-asem.jpg
+  - name: Kwadwo Agyapon-Ntra
+    linkedin: kwadwo-agyapon-ntra
+    github: KayO-GH
+    twitter: KayO_GH
+    interests:
+      - Computer Vision
+      - Natural Language Processing
+      - Predictive Analytics
+    description: Life-long learner
+    image: /assets/img/uploads/me_mest-kwadwo-agyapon-ntra.jpg
+  - name: Boadu Lawrence Junior
+    linkedin: lawrence-ofori-boadu-65aa7262
+    interests:
+      - Predictive Analytics
+      - Data Engineering
+      - Visualization
+    description: Am a web developer, with the aim of using AI to enhance productivity
+    image: /assets/img/uploads/0-9-.jpeg
+  - name: Bright Morkli
+    twitter: bright_morkli
+    interests:
+      - Natural Language Processing
+      - Ethics in AI
+      - Software 2.0
+    description: An Open Science Practitioner on the run.. Software Development, NLP
+      & Chatbots, Data Science.
+    image: /assets/img/uploads/img_20200321_171722-bright-morkli.jpg
+  - name: Collins Afeti Gadawusu
+    linkedin: gagawusu
+    interests:
+      - Natural Language Processing
+      - Ethics in AI
+      - Predictive Analytics
+    description: As a Global Shaper of the World Economic Forum at the Ho Hub, I am
+      the project lead for "Internet of Ho Things" codenamed "Woekpor"
+    image: /assets/img/uploads/whatsapp-image-2020-05-04-at-10.40.11-collins-afeti-gadawusu.jpeg
+  - description: '"There will certainly be no lack of human pioneers when we have
+      mastered the art of flight.In the meantime, we shall prepare, for the
+      brave sky-travelers, maps of the celestial bodies – I shall do it for the
+      moon, you Galileo, for Jupiter."'
+    name: Sandy Agbottah
+    linkedin: sandy-agbottah-83293492
+    interests:
+      - Natural Language Processing
+      - Robotics
+      - Expert systems
+    image: /assets/img/uploads/me-candy-emrys.jpeg
