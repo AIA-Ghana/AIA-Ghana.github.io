@@ -2,7 +2,7 @@
 items: 
   - name: Jeffery Ansah PhD
     role: Core Team Member
-    image: assets/img/profiles/profile-001.jpg
+    image: /assets/img/profiles/profile-001.jpg
     description: >
       I build AI products that excites through research and innovation
     linkedin: jeffery-ansah
@@ -13,7 +13,7 @@ items:
 
   - name: Joel Budu
     role: Core Team Member
-    image: assets/img/profiles/profile-002.jpg
+    image: /assets/img/profiles/profile-002.jpg
     description: >
       I build robots that'll take your job 😈. [@techconfab](https://bit.ly/joelbudu) podcast host
     linkedin: joelbudu
@@ -28,7 +28,7 @@ items:
     role: Core Team Member
     github : SallyAfua
     description : Live to the max!
-    image : assets/img/profiles/profile-022.jpg
+    image : /assets/img/profiles/profile-022.jpg
     interests: 
       - Predictive Analytics
       - NLP
@@ -38,7 +38,7 @@ items:
     role: Core Team Member
     github : nodamu
     description : We live once so build stuff that matters and build it well
-    image : assets/img/profiles/profile-009.jpg
+    image : /assets/img/profiles/profile-009.jpg
     interests: 
       - Computer Vision
       - MLOps
@@ -46,7 +46,7 @@ items:
 
   - name : Omar Majdoub 
     role: Core Team Member
-    image : assets/img/profiles/profile-007.jpg
+    image : /assets/img/profiles/profile-007.jpg
     description : >
       I love exploring use of Computer Vision and ML in generating new content
     github: ganzaro
@@ -59,7 +59,7 @@ items:
 
   - name: Derek Kweku Degbedzui
     role: Core Team Member
-    image: assets/img/profiles/profile-005.png
+    image: /assets/img/profiles/profile-005.png
     description: >
       I am a Research Data Scientist with a passion for machine learning and its applications to research and business.
     linkedin: derek-k-degbedzui-mba-34b270163
@@ -72,7 +72,7 @@ items:
 
   - name: Edward Jacob Aboagye Baidoo
     role: Core Team Member
-    image: assets/img/profiles/profile-006.jpg
+    image: /assets/img/profiles/profile-006.jpg
     description: >
       Learning to apply AI to solve complex human problems 
     linkedin: ejabaidoo
@@ -85,7 +85,7 @@ items:
 
 
   - name: Michael Hope Setriakor
-    image: assets/img/profiles/profile-003.jpg
+    image: /assets/img/profiles/profile-003.jpg
     description: >
       I am an AI Enthusiast 
     linkedin: michael-hope-setriakor-13a539142
@@ -140,7 +140,7 @@ items:
       - Recommendation Systems
 
   - name : Emmanuel A.S Amoaku
-    image : assets/img/profiles/profile-008.jpg
+    image : /assets/img/profiles/profile-008.jpg
     description : For machines to think, they need to see and I teach them to do that.
     linkedin : emmanuel-amoaku
     interests: 
@@ -176,7 +176,7 @@ items:
   - name: Creppy Anna Esinu Ayorkor 
     description : Meaningful insights are buried within raw data.I dig them out and turn them into treasure 
     linkedin : esinu-creppy-63b0991a4
-    image : assets/img/profiles/profile-010.jpg
+    image : /assets/img/profiles/profile-010.jpg
     interests: 
       - Predictive Analytics
       - Data Engineering
@@ -187,7 +187,7 @@ items:
     twitter :  GhaffarM
     github : Ghaffaru15
     description : Passionate about working with data
-    image : assets/img/profiles/profile-020.jpg
+    image : /assets/img/profiles/profile-020.jpg
     interests: 
       - Computer Vision
       - NLP
@@ -205,7 +205,7 @@ items:
     twitter : samkwasiboateng
     github : paaKways 
     description : I am interested in anything that requires even a dash of creativity
-    image : assets/img/profiles/profile-011.jpg
+    image : /assets/img/profiles/profile-011.jpg
     interests: 
       - Predictive Analytics
       - NLP
@@ -261,7 +261,7 @@ items:
     linkedin : frederick-o-12081aa2
     github : FreeHill
     twitter : f_o_nyarko
-    image : assets/img/profiles/profile-013.jpg
+    image : /assets/img/profiles/profile-013.jpg
     description : I’m a young guy with a deep interest in merging AI and IoT technologies to develop robust systems 
     interests: 
       - Computer Vision
@@ -272,7 +272,7 @@ items:
     github : iKwesi
     twitter : raphaelblankson
     description : To make the world a better place through AI and quantum ML
-    image : assets/img/profiles/profile-021.jpg
+    image : /assets/img/profiles/profile-021.jpg
     interests: 
       - Quantum ML
       - Robotics
@@ -281,7 +281,7 @@ items:
   - name : Seyram Kwame Attah
     linkedin : seyram-kwame-attah-cisa-cism-iso-lead-auditor-implementer-786a6a7b/
     description : A self motivated professional who wants to contribute in the field of Cybersecurity leveraging on AI
-    image : assets/img/profiles/profile-014.jpg
+    image : /assets/img/profiles/profile-014.jpg
     interests: 
       - Recommendation systems
       - Reinforcement Learning
@@ -300,7 +300,7 @@ items:
     github : bkwapong
     twitter : KwapongBenjamin
     description : I am a computer science PhD student and a graduate teaching (and research) assistant  at university of Massachusetts Boston
-    image : assets/img/profiles/profile-015.jpg
+    image : /assets/img/profiles/profile-015.jpg
     interests: 
       - Computer Vision
       - Recommendation Systems
@@ -318,7 +318,7 @@ items:
     github : ChocoPath
     twitter : ChocolatePath
     description : Work smart, don't reinvent the wheel
-    image : assets/img/profiles/profile-016.jpg
+    image : /assets/img/profiles/profile-016.jpg
     interests: 
       - Computer Vision
       - NLP
@@ -339,7 +339,7 @@ items:
     github : SAMUEL-KETECHIE
     twitter: Samuel_Wendolin
     description : I am a Full-stack developer in the fields of Web development, Desktop application development, Machine learning and Enterprise application development.
-    image : assets/img/profiles/profile-018.jpg
+    image : /assets/img/profiles/profile-018.jpg
     interests: 
       - Data Engineering
       - Computer Vision
@@ -355,14 +355,14 @@ items:
   - name : Jonas Afutu
     linkedin : jonas-afutu
     description : I want to solve problems using AI
-    image : assets/img/profiles/profile-019.jpg
+    image : /assets/img/profiles/profile-019.jpg
     interests: 
       - Computer Vision
       - NLP
       - Predictive Analytics
   
   - name: Enock Damtse
-    image: assets/img/profiles/profile-004.jpg
+    image: /assets/img/profiles/profile-004.jpg
     email: enochdamtse@gmail.com
     interests: 
       - Computer Vision

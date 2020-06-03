@@ -35,7 +35,7 @@ collections:
               - {label: "Name", name: "name", widget: "string"}
               - {label: "Role", name: "role", widget: "string", required: false}
               - {label: "Description", name: "description", widget: "markdown", required: false}
-              - {label: "Photo", name: "photo", widget: "image" , required: false}
+              - {label: "Photo", name: "image", widget: "image" , required: false}
               - {label: "LinkedIn", name: "linkedin", widget: "string", required: false}
               - {label: "GitHub", name: "github", widget: "string", required: false}
               - {label: "Twitter", name: "twitter", widget: "string", required: false}
