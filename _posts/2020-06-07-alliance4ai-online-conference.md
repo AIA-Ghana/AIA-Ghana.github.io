@@ -1,7 +1,7 @@
 ---
 title: Alliance4AI Online Conference
 date: 2020-06-06T21:44:44.647Z
-background: /assets/img/uploads/twitter_ez2g4rzxkae-uzc.jpg
+background: /assets/img/uploads/twitter_fnhun4ns_400x400.png
 categories:
   - conference
   - africa
