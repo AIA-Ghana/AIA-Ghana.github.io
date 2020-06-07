@@ -12,3 +12,6 @@ interested in the application and promotion of Artificial Intelligence technolog
 and related fields like Cloud Computing, IOT Sensors etc... in Ghana
 
 
+[![Join Slack](/assets/img/Joinslack.png)](https://bit.ly/aia-slack)
+
+
