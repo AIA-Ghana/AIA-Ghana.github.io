@@ -12,3 +12,7 @@ comments: true
 AIA Core Team Member Derek K Degbedzui appeared on the Tech Confab podcast
 
 discussing Artificial Intelligence.
+
+
+
+https://youtu.be/wPiIC7f2FYI
