@@ -15,8 +15,8 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Featured Image", name: "background", widget: "image"}
-      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Featured Image", name: "background", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Comments", name: "comments", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Pages"
