@@ -17,8 +17,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Featured Image", name: "background", widget: "image"}
       - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Comments", name: "comments", widget: "boolean"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - label: "Pages"
     name: "Pages"
     files:
