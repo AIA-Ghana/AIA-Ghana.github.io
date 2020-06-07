@@ -2,15 +2,15 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-# columns:
-#   - description:
-#     links:
-#     - text: Name of project partner 1
-#       href: http://example.com
-#       new_window: true
-#     - text: Name of project partner 2
-#       href: http://example.com
-#       new_window: true
+columns:
+  - description:
+    links:
+    - text: Join our Slack Channel
+      href: http://bit.ly/aia-slack
+      new_window: true
+    # - text: Name of project partner 2
+    #   href: http://example.com
+    #   new_window: true
 
   # - description: > # E.g. funding acknowledgement. Can be Markdown
   #     This project is made with ❤ for open source. See [`_data/footer.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/footer.yml) to customize this text.
