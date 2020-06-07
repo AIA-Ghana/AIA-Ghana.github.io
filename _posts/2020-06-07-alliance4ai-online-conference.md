@@ -11,6 +11,4 @@ comments: true
 
 AIA Core Team member Nicholas represented AIA at the Alliance4AI  online conference.
 
-
-
-Link
+[Learn More](https://www.alliance4ai.org/)
