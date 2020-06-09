@@ -20,13 +20,13 @@ Starting data science projects requires some form of planning, be it a personal 
 <li>Describe a project plan</li>
 <li>Set a success criteria</li>
 </ol></p>
-* Data Understanding
+*  ### Data Understanding
 <p>At this stage, we try to answer questions from the business understanding phase. This involves activities from exracting data from the source, data wrangling, data visualization, finding relationships and correlation between attributes of the data. The dataset(s) invovled is also cleaned and prepared for the task. Tools like pandas, matplotlib, apache spark, Tableau, seaborn are used for these tasks. If business criteria or objective is met at this point we can end at this phase other wise we move to the next phase</p>
-* Modeling
-<p>At this phase we build models from the dataset provided from the previous stage, we select a modeling technique, build and assess the model using frameworks like [Scikit learn](https://scikit-learn.org/), [Tensorflow](https://www.tensorflow.org/) or [Pytorch](https://pytorch.org/)</p>
-* Evaluation
+* ### Modeling
+<p>At this phase we build models from the dataset provided from the previous stage, we select a modeling technique, build and assess the model using frameworks like [Scikit learn](https://scikit-learn.org/), [Tensorflow](https://www.tensorflow.org/) or [Pytorch](https://pytorch.org/) </p>
+* ### Evaluation
 <p>This stage involves evaluating model performance on two things, model metrics like accuracy, recall, precision and it's ability to solve the business objective and meet the sucess criteria. Models are evaluated on test data sets and A/B tested</p>
-* Deployment and Monitoring
+* ### Deployment and Monitoring
 <p> This phase involves deploying the model to production and making it available to users, it's also monitored for performance decay to trigger continuous training pipelines to train model on fresh data. Monitoring is also important as it helps in planning infrastructure.</p>
 
 
