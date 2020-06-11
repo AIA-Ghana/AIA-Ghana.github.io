@@ -4,6 +4,7 @@ date: 2020-01-04T02:07:29.708Z
 background: /assets/img/blog/IMG-20200103-WA0014.jpg
 categories:
   - events
+comments: true
 ---
 ## AIA Meetup Ghana Tech Lab
 
