@@ -19,7 +19,7 @@ This meetup featured very exciting presentations notably,
 
 Starting data science projects requires some form of planning, be it a personal project or a large scale industrial project. In there presentation, the workflow described is outlined below
 
-* Business Understanding
+* ### Business Understanding
 <p>This is the beginning of the workflow, at this stage of the workflow, we seek to 
 <ol>
 <li>Set the objectives for the project</li>
