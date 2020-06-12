@@ -26,10 +26,10 @@ Starting data science projects requires some form of planning, be it a personal 
 <li>Describe a project plan</li>
 <li>Set a success criteria</li>
 </ol></p>
-*  ### Data Understanding
+* ### Data Understanding
 <p>At this stage, we try to answer questions from the business understanding phase. This involves activities from extracting data from the source, data wrangling, data visualization, finding relationships and correlation between attributes of the data. The dataset(s) involved is also cleaned and prepared for the task. Tools like pandas, Matplotlib, Apache spark, Tableau, Seaborn are used for these tasks. If business criteria or objective is met at this point we can end at this phase other wise we move to the next phase</p>
 * ### Modeling
-At this phase we build models from the datasets provided from the previous stage, we select a modeling technique, build and assess the model using frameworks like [Scikit learn](https://scikit-learn.org/), [Tensorflow](https://www.tensorflow.org/) or [Pytorch](https://pytorch.org/) 
+<p>At this phase we build models from the datasets provided from the previous stage, we select a modeling technique, build and assess the model using frameworks like [Scikit learn](https://scikit-learn.org/), [Tensorflow](https://www.tensorflow.org/) or [Pytorch](https://pytorch.org/)</p>
 * ### Evaluation
 <p>This stage involves evaluating model performance on two things, model metrics like accuracy, recall, precision and it's ability to solve the business objective and meet the success criteria. Models are evaluated on test data sets and A/B tested</p>
 * ### Deployment and Monitoring
