@@ -1,6 +1,7 @@
 ---
 title: Interview with  Salomey Addo, A Ghanaian Data Scientist
 date: 2020-06-13T18:37:11.354Z
+background: /assets/img/uploads/image_ghnlp.png
 categories:
   - nlp
   - interview
