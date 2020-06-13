@@ -6,6 +6,10 @@ categories:
   - interview
 comments: true
 ---
+The following is an interview session with Salomey. She is a Data Scientist and an NLP Practitioner. And she gives us her take on women in data science, and work being done with Ghanaian languages in NLP.
+
+
+
 **Welcome Salomey and thank you for accepting our interview request. Could you tell us a bit about yourself, and your interest in Data Science ?**
 
 My name is Salomey Afua Addo, a product of the University of Ghana and the African Institute for Mathematical Sciences (AIMS), Ghana. 
@@ -47,7 +51,5 @@ We need to create an awareness about the field, we need to demystify and throw m
 **Do you have any final comments to share with our readers ?**
 
 Yes. It is a privilege to be given a voice, yeah. I will like to encourage young ones like me not to fear to step into the unknown. Be curious, don’t be intimidated to ask questions, ask for assistance when you need help. Learn as much as you can. Be yourself. Let love lead. Together we can make Africa a beautiful place to live.
-
-
 
 *Authored By [Omar Majdoub](https://twitter.com/ganzaro1)*
