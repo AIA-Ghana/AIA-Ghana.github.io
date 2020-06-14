@@ -53,6 +53,6 @@ Yes. It is a privilege to be given a voice, yeah. I will like to encourage young
 
 **Thank you Salomey**
 
-*If you are interested in finding out more and discussing about Ghana NLP, join us for our upcoming [Webinar](bit.ly/aia_nlp)*
+*If you are interested in finding out more and discussing about Ghana NLP, join us for our upcoming [Webinar](https://www.eventbrite.com/e/ghana-nlp-putting-ghanaian-languages-on-the-global-machine-learning-map-tickets-109534089410)*
 
 ***Authored By*** [Omar Majdoub](https://twitter.com/ganzaro1)
