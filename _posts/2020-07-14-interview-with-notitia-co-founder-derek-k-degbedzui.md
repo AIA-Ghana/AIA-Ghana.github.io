@@ -6,7 +6,7 @@ I recently interviewed Derek K Degbedzui about opportunities and challenges faci
 
 And how his startup [Notitia ](https://notitia.site/)is addressing these issues.
 
-#### **Hi Derek, could you tell us a bit about yourself ?**
+#### **1. Hi Derek, could you tell us a bit about yourself ?**
 
 #### **How did you get into data science ?**
 
@@ -35,3 +35,39 @@ I believe that it shouldn't be so difficult for curious, hardworking, committed 
 **When not working you are:** Reading, chatting and doing Disk Jockeying
 
 **Favorite Movie character:** Jack Ryan from Tom Clancy’s books.
+
+
+
+#### 2. Can u tell us more about your recent startup venture, Notitia ?
+
+#### What role do you play in Notitia ?
+
+We want to fix the broken system created by today’s education and recruiting systems—it
+
+really shouldn’t be so difficult to have a career that you love. That’s why we started Notitia
+
+Ubuntu Launchpad: we think you deserve career training that actually works and gets results
+
+fast without breaking the bank.
+
+So abandon Reddit, stop sifting through 10,000 Google results and throw out that student
+
+loan application: the Notitia Ubuntu Launchpad program is the absolute best and most
+
+comprehensive job search resource out there for aspiring data scientists.
+
+With this Launchpad from Notitia, you will learn:
+
+ Defining your goals and mastering the mindset for success
+
+ Developing and mastering the technical skills
+
+ Creating your standout portfolio projects
+
+ Crafting the perfect application
+
+ Landing interviews at your dream company
+
+ Acing phone screens, coding challenges, and on-site interviews
+
+ Effortlessly negotiating your dream offer
