@@ -42,32 +42,24 @@ I believe that it shouldn't be so difficult for curious, hardworking, committed 
 
 #### What role do you play in Notitia ?
 
-We want to fix the broken system created by today’s education and recruiting systems—it
+We want to fix the broken system created by today’s education and recruiting systems—it really shouldn’t be so difficult to have a career that you love. That’s why we started Notitia Ubuntu Launchpad: we think you deserve career training that actually works and gets results fast without breaking the bank.
 
-really shouldn’t be so difficult to have a career that you love. That’s why we started Notitia
-
-Ubuntu Launchpad: we think you deserve career training that actually works and gets results
-
-fast without breaking the bank.
-
-So abandon Reddit, stop sifting through 10,000 Google results and throw out that student
-
-loan application: the Notitia Ubuntu Launchpad program is the absolute best and most
-
-comprehensive job search resource out there for aspiring data scientists.
+So abandon Reddit, stop sifting through 10,000 Google results and throw out that student loan application: the Notitia Ubuntu Launchpad program is the absolute best and most comprehensive job search resource out there for aspiring data scientists.
 
 With this Launchpad from Notitia, you will learn:
 
- Defining your goals and mastering the mindset for success
+Defining your goals and mastering the mindset for success 
 
- Developing and mastering the technical skills
 
- Creating your standout portfolio projects
 
- Crafting the perfect application
+Developing and mastering the technical skills
 
- Landing interviews at your dream company
+Creating your standout portfolio projects
 
- Acing phone screens, coding challenges, and on-site interviews
+Crafting the perfect application
 
- Effortlessly negotiating your dream offer
+Landing interviews at your dream company
+
+Acing phone screens, coding challenges, and on-site interviews
+
+Effortlessly negotiating your dream offer
