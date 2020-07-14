@@ -94,24 +94,48 @@ Learn how to consistently earn yearly promotions and speed up your career by bec
 
 **Overcoming fear and frustration**
 
-Learn the secrets to never getting nervous in interviews and how to overcome failures in your
+Learn the secrets to never getting nervous in interviews and how to overcome failures in your job search by using them to fuel your future growth.
 
-job search by using them to fuel your future growth.
+**Mastering the job search and launching your career**
 
- Mastering the job search and launching your career
+Learn how to break into the field of data science and get your career started with actionable, practical advice that you won't hear anywhere else.
 
-Learn how to break into the field of data science and get your career started with actionable,
+**Navigating your career and delivering value in industry**
 
-practical advice that you won't hear anywhere else.
+Learn how have a successful career by solving difficult problems, delivering business value, communicating results, and becoming an authority in industry.
 
- Navigating your career and delivering value in industry
+**Mastering focus and productivity**
 
-Learn how have a successful career by solving difficult problems, delivering business value,
+Learn how to evaluate what is important in your career, prioritize your time, and optimize your productivity, relationships, income, and happiness.
 
-communicating results, and becoming an authority in industry.
 
- Mastering focus and productivity
 
-Learn how to evaluate what is important in your career, prioritize your time, and optimize
+#### 3. What are some of the problems affecting AI in Ghana, and how does Notitia address them ?
 
-your productivity, relationships, income, and happiness.
+The biggest challenge is the few talents in the country finding opportunities around. This is
+
+mostly because we continue to make AI and Data science look academic while we allow the
+
+real-world people like businesses to suffer. We need to create enough use cases to such
+
+industries and surest way of doing so is to build portfolios. Building the right portfolios to the
+
+specific industry needs is one we need to spend time on.
+
+So, as part of Notitia Launchpad we developed a course named portfolio development course.
+
+This course will among other things include:
+
+ Learn the 4D Data Science Lifecycle and how to use it to create massive impact as a data
+
+scientist
+
+ Learn the DNA of standout portfolios and projects (and why choosing the right names for
+
+your projects is make-or-break)
+
+ Clear list of "do's and don'ts"
+
+ Create your own data science project to include in your portfolio (designed for beginner OR
+
+advanced users)
