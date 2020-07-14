@@ -55,3 +55,23 @@ With this Launchpad from Notitia, you will learn:
 * Landing interviews at your dream company
 * Acing phone screens, coding challenges, and on-site interviews
 * Effortlessly negotiating your dream offer
+
+
+
+**How it Works - 3 Core Pillars of the program:**
+
+***i. Courses***
+
+Step-by-step online course specifically engineered to land you job in data science
+
+Clear action plans, templates, and guides that break down, in detail, the exact steps for you to
+
+follows
+
+***ii. Community***
+
+Winning Slack community with over 1000+ like-minded, dedicated data scientists
+
+Supportive peers, students that have “done it”, and our expert team is there support
+
+and guide you. Ultra-active, 100% response rate
