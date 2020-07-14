@@ -48,18 +48,10 @@ So abandon Reddit, stop sifting through 10,000 Google results and throw out that
 
 With this Launchpad from Notitia, you will learn:
 
-Defining your goals and mastering the mindset for success 
-
-
-
-Developing and mastering the technical skills
-
-Creating your standout portfolio projects
-
-Crafting the perfect application
-
-Landing interviews at your dream company
-
-Acing phone screens, coding challenges, and on-site interviews
-
-Effortlessly negotiating your dream offer
+* Defining your goals and mastering the mindset for success 
+* Developing and mastering the technical skills
+* Creating your standout portfolio projects
+* Crafting the perfect application
+* Landing interviews at your dream company
+* Acing phone screens, coding challenges, and on-site interviews
+* Effortlessly negotiating your dream offer
