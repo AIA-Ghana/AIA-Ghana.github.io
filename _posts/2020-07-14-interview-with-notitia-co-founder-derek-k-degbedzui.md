@@ -21,7 +21,7 @@ When I started in data science, I had virtually no experience and I was stuck in
 
 I struggled to break into the field for months and was just as frustrated as anybody else.
 
-With a lot of hard work, persistence, and experimentation, I was finally able to prove those people wrong, crack the code, and land my first job in the field.
+With a lot of hard work, persistence, and experimentation, I was finally able to prove naysayers wrong, crack the code, and land my first job in the field.
 
 I developed my data science job search strategies over time and eventually became a known name in Data science in Ghana as one of the young people helping students particularly to find interest in Data science opportunities. Along the way mentored and guided hundreds of aspiring data scientists across all levels especially in our universities.
 
