@@ -64,9 +64,7 @@ With this Launchpad from Notitia, you will learn:
 
 Step-by-step online course specifically engineered to land you job in data science
 
-Clear action plans, templates, and guides that break down, in detail, the exact steps for you to
-
-follows
+Clear action plans, templates, and guides that break down, in detail, the exact steps for you to follow.
 
 ***ii. Community***
 
@@ -75,3 +73,14 @@ Winning Slack community with over 1000+ like-minded, dedicated data scientists
 Supportive peers, students that have “done it”, and our expert team is there support
 
 and guide you. Ultra-active, 100% response rate
+
+
+
+***iii. Mentoring***
+
+* Get unlimited 1-on-1 support with our expert mentors during on daily basis
+* Weekly workshops to learn new skills and keep you up-to-date with the best data science and job-search techniques.
+
+The Mentoring is the most important feature of the program as Mentors as expected to sign a contract with mentees and then invest in the mentee until he or she gets a job. As per the agreement the mentee will pay 5% of his or her first 6 months’ salary as the reward to be mentor.
+
+The platform however charges one-time payment of 1,800 cedis or a monthly amount of 400 cedis for six months.
