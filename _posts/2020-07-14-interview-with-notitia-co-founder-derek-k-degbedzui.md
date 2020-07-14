@@ -1,6 +1,13 @@
 ---
 title: Interview with Notitia Co-founder Derek K Degbedzui
 date: 2020-07-14T20:07:35.714Z
+background: /assets/img/uploads/notitia-ai.png
+categories:
+  - startup
+  - interview
+  - training
+  - notitia
+comments: true
 ---
 I recently interviewed Derek K Degbedzui about opportunities and challenges facing the Data Science industry in Ghana.
 
