@@ -68,11 +68,8 @@ Clear action plans, templates, and guides that break down, in detail, the exact 
 
 ***ii. Community***
 
-Winning Slack community with over 1000+ like-minded, dedicated data scientists
-
-Supportive peers, students that have “done it”, and our expert team is there support
-
-and guide you. Ultra-active, 100% response rate
+* Winning Slack community with over 1000+ like-minded, dedicated data scientists
+* Supportive peers, students that have “done it”, and our expert team is there to support and guide you. Ultra-active, 100% response rate
 
 
 
@@ -84,3 +81,37 @@ and guide you. Ultra-active, 100% response rate
 The Mentoring is the most important feature of the program as Mentors as expected to sign a contract with mentees and then invest in the mentee until he or she gets a job. As per the agreement the mentee will pay 5% of his or her first 6 months’ salary as the reward to be mentor.
 
 The platform however charges one-time payment of 1,800 cedis or a monthly amount of 400 cedis for six months.
+
+
+
+**Real-world applications of data science skills**
+
+Learn what they don't teach in school - spotting risk vs reward, choosing models that will be effective in production, and dealing with ambiguity as a data scientist.
+
+**Becoming a leader that moves up quickly**
+
+Learn how to consistently earn yearly promotions and speed up your career by becoming a leader that inspires and empowers others.
+
+**Overcoming fear and frustration**
+
+Learn the secrets to never getting nervous in interviews and how to overcome failures in your
+
+job search by using them to fuel your future growth.
+
+ Mastering the job search and launching your career
+
+Learn how to break into the field of data science and get your career started with actionable,
+
+practical advice that you won't hear anywhere else.
+
+ Navigating your career and delivering value in industry
+
+Learn how have a successful career by solving difficult problems, delivering business value,
+
+communicating results, and becoming an authority in industry.
+
+ Mastering focus and productivity
+
+Learn how to evaluate what is important in your career, prioritize your time, and optimize
+
+your productivity, relationships, income, and happiness.
