@@ -43,8 +43,6 @@ I believe that it shouldn't be so difficult for curious, hardworking, committed 
 
 **Favorite Movie character:** Jack Ryan from Tom Clancy’s books.
 
-
-
 #### 2. Can u tell us more about your recent startup venture, Notitia ?
 
 #### What role do you play in Notitia ?
@@ -63,8 +61,6 @@ With this Launchpad from Notitia, you will learn:
 * Acing phone screens, coding challenges, and on-site interviews
 * Effortlessly negotiating your dream offer
 
-
-
 **How it Works - 3 Core Pillars of the program:**
 
 ***i. Courses***
@@ -78,8 +74,6 @@ Clear action plans, templates, and guides that break down, in detail, the exact 
 * Winning Slack community with over 1000+ like-minded, dedicated data scientists
 * Supportive peers, students that have “done it”, and our expert team is there to support and guide you. Ultra-active, 100% response rate
 
-
-
 ***iii. Mentoring***
 
 * Get unlimited 1-on-1 support with our expert mentors during on daily basis
@@ -88,8 +82,6 @@ Clear action plans, templates, and guides that break down, in detail, the exact 
 The Mentoring is the most important feature of the program as Mentors as expected to sign a contract with mentees and then invest in the mentee until he or she gets a job. As per the agreement the mentee will pay 5% of his or her first 6 months’ salary as the reward to be mentor.
 
 The platform however charges one-time payment of 1,800 cedis or a monthly amount of 400 cedis for six months.
-
-
 
 **Real-world applications of data science skills**
 
@@ -115,8 +107,6 @@ Learn how have a successful career by solving difficult problems, delivering bus
 
 Learn how to evaluate what is important in your career, prioritize your time, and optimize your productivity, relationships, income, and happiness.
 
-
-
 #### 3. What are some of the problems affecting AI in Ghana, and how does Notitia address them ?
 
 The biggest challenge is the few talents in the country finding opportunities around. This is mostly because we continue to make AI and Data science look academic while we allow the real-world people like businesses to suffer. 
@@ -131,8 +121,6 @@ This course will among other things include:
 * Learn the DNA of standout portfolios and projects (and why choosing the right names for your projects is make-or-break)
 * Clear list of "do's and don'ts"
 * Create your own data science project to include in your portfolio (designed for beginner OR advanced users)
-
-
 
 #### 4. Do you have any final message for aspiring Data Scientists in Africa, or African AI
 
@@ -158,3 +146,7 @@ Actively use LinkedIn:
 Do it, and the job will find you itself.
 
 **Thank you**
+
+
+
+***Authored By*** [Omar Majdoub](https://twitter.com/ganzaro1)
