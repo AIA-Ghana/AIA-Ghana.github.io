@@ -112,30 +112,42 @@ Learn how to evaluate what is important in your career, prioritize your time, an
 
 #### 3. What are some of the problems affecting AI in Ghana, and how does Notitia address them ?
 
-The biggest challenge is the few talents in the country finding opportunities around. This is
+The biggest challenge is the few talents in the country finding opportunities around. This is mostly because we continue to make AI and Data science look academic while we allow the real-world people like businesses to suffer. 
 
-mostly because we continue to make AI and Data science look academic while we allow the
-
-real-world people like businesses to suffer. We need to create enough use cases to such
-
-industries and surest way of doing so is to build portfolios. Building the right portfolios to the
-
-specific industry needs is one we need to spend time on.
+We need to create enough use cases to such industries and surest way of doing so is to build portfolios. Building the right portfolios to the specific industry needs is one we need to spend time on.
 
 So, as part of Notitia Launchpad we developed a course named portfolio development course.
 
 This course will among other things include:
 
- Learn the 4D Data Science Lifecycle and how to use it to create massive impact as a data
+* Learn the 4D Data Science Lifecycle and how to use it to create massive impact as a data scientist
+* Learn the DNA of standout portfolios and projects (and why choosing the right names for your projects is make-or-break)
+* Clear list of "do's and don'ts"
+* Create your own data science project to include in your portfolio (designed for beginner OR advanced users)
 
-scientist
 
- Learn the DNA of standout portfolios and projects (and why choosing the right names for
 
-your projects is make-or-break)
+#### 4. Do you have any final message for aspiring Data Scientists in Africa, or African AI
 
- Clear list of "do's and don'ts"
+#### startups?
 
- Create your own data science project to include in your portfolio (designed for beginner OR
+We need to do a lot more as expectations is high.
 
-advanced users)
+We need to overcome challenges by developing relationships.
+
+Networking is the most effective strategy for job search. Find people with similar interests and talk to them.
+
+Do it offline on meetups and conferences, do it online on social networks.
+
+Actively use LinkedIn:
+
+* Every time you meet somebody, ask their LinkedIn profile
+* Connect to everyone you know
+* Connect to people you don’t know: people from the same city, same university, same field
+* Engage: share content, talk to your connections
+* Don’t simply cold-send your CV and ask for a referral.
+* Get to know your connections, ask what they are doing, tell them about yourself, share something you did recently — a project or an article.
+
+Do it, and the job will find you itself.
+
+**Thank you**
