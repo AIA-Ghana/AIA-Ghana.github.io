@@ -6,16 +6,8 @@ comments: true
 ---
 Join us on Thursday on our first educational series partnered with NVIDIA’s Emerging Chapters Program at 3PM GMT. 
 
-**Education Series**\
-Our monthly education series will kick off on June 17th.  8-10 am PDT and repeat on the 3rd Thursday of each month. A separate calendar invite will be forwarded to you. Please circulate it to our members.  Here is our training calendar for the coming months. More detailed information will be published on the program landing page. ( <https://developer.nvidia.com/emerging-chapters>)\
-**Date**\
-**Topic**\
-June 17, 2021. 8-10 am PDT\
-Nvidia Technologies Overview (1 hour) + Networking session (1 hour)\
-July 15, 2021\
-Edge Computing - Jetson AI Fundamentals\
-Aug 19, 2021\
-Edge Computing partner sessions\
-Sep 16, 2021\
-Accelerated Data Science with RAPIDS\
-In addition to this workshop, we will be sending you a survey around our self-paced courses. This survey will help us to understand your specific community needs. We are so excited to embark on this journey with NVIDIA.
+The first part of the meeting will be a presentation on our program overview, an intro to Nvidia Technologies/stacks and a quick intro to some applications. This training is open to all our community members who can attend. The next session of the program will be a networking session with just each community’s leadership team and presenters. Please confirm your participation in the networking session if you have not done so already.[](https://support.google.com/calendar/answer/37118?hl=en)
+
+Microsoft Teams meeting
+
+[Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODE2Y2Y2YWMtN2ZjOC00ZjAwLTgzNDAtMmQyODAzNjBhOGYz%40thread.v2/0?context=%7b%22Tid%22%3a%2243083d15-7273-40c1-b7db-39efd9ccc17a%22%2c%22Oid%22%3a%220222148a-32ee-41fd-b031-b1a6b2b3ba93%22%7d)
