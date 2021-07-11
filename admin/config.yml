@@ -1,7 +1,7 @@
 backend:
-  # name: git-gateway
-  # branch: master
-  name: github
+  name: git-gateway
+  branch: master
+  # name: github
   repo: AIA-Ghana/AIA-Ghana.github.io # Path to your GitHub repository
 publish_mode: editorial_workflow
 # open_authoring: true # accept contributions from GitHub users without giving them access to your repository. https://www.netlifycms.org/docs/open-authoring/
