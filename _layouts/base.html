@@ -7,31 +7,20 @@
     {% include navbar.html %}
 
     <main>
-      {% include jumbotron.html %}
+      {% include header.html %}
 
       <div class="container content">
           
-        {{ content | replace: '<table', '<table class="table"' }}
+        {{ content
+          | replace: '<table', '<div class="table-responsive"><table'
+          | replace: '</table>', '</table></div>'
+          | replace: '<table>', '<table class="table">'
+        }}
 
       </div>
     </main>
 
     {% include footer.html %}
-
-<!-- Netlify Identity Widget -->
-    <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
-
-<script id="dsq-count-scr" src="//aiagh.disqus.com/count.js" async></script>
 
   </body>
 </html>

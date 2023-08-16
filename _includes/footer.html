@@ -1,82 +1,93 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-lg">
-        <ul class="list-inline">
-          {% if site.email %}
-            <li class="list-inline-item">
-              <a href="mailto:{{ site.email }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
+      {% if site.social %}
+        <div class="col-lg">
+          <ul class="list-inline">
+            {% if site.social.email %}
+              <li class="list-inline-item">
+                <a href="mailto:{{ site.social.email }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            {% endif %}
 
-      {% if site.facebook_username %}
-            <li class="list-inline-item">
-              <a href="https://facebook.com/{{ site.facebook_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
+            {% if site.social.twitter %}
+              <li class="list-inline-item">
+                <a href="https://twitter.com/{{ site.social.twitter }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            {% endif %}
 
-          {% if site.linkedin_username %}
-            <li class="list-inline-item">
-              <a href="https://linkedin.com/company/{{ site.linkedin_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-          {% if site.twitter_username %}
-            <li class="list-inline-item">
-              <a href="https://twitter.com/{{ site.twitter_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
+            {% if site.social.mastodon %}
+              <li class="list-inline-item">
+                <a rel="me" href="{{ site.social.mastodon }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            {% endif %}
 
-           {% if site.instagram_username %}
-            <li class="list-inline-item">
-              <a href="https://instagram.com/{{ site.instagram_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
+            {% if site.social.facebook %}
+              <li class="list-inline-item">
+                <a red="me" href="{{ site.social.facebook }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            {% endif %}
 
-        
-        </ul>
-      </div>
+            {% if site.social.github %}
+              <li class="list-inline-item">
+                <a href="https://github.com/{{ site.social.github }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.archive_permalink %}
+              <li class="list-inline-item">
+                <a href="{{ '/feed.xml' | absolute_url }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            {% endif %}
+          </ul>
+        </div>
+      {% endif %}
 
       {% for col in site.data.footer.columns %}
-      <div class="col-lg">
-        {{ col.description | markdownify }}
+        <div class="col-lg">
+          {{ col.description | markdownify }}
 
-        {% if col.links %}
-          <ul class="fa-ul">
-          {% for item in col.links %}
-            <li>
-              <i class="fa-li fa fa-chevron-circle-right"></i>
-              <a href="{{ item.href | relative_url}}" {% if item.new_window %}target="_blank"{% endif %}>{{ item.text }}</a>
-            </li>
-          {% endfor %}
-          </ul>
-        {% endif %}
-
-      </div>
+          {% if col.links %}
+            <ul class="fa-ul">
+              {% for item in col.links %}
+                <li>
+                  <i class="fa-li fa fa-chevron-circle-right"></i>
+                  <a href="{{ item.href | relative_url }}"{% if item.new_window %} target="_blank"{% endif %}>{{ item.text }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
       {% endfor %}
     </div>
 
@@ -85,18 +96,25 @@
         <p>© {{ site.author }}</p>
       {% endif %}
       {% if site.data.footer.license %}
-        {{ site.data.footer.license | markdownify }}
+        {{ site.data.footer.license | markdownify }}
+      {% endif %}
+      {% if site.github_edit %}
+        {% if site.github_edit contains '' %}
+          {% assign branch = site.github_edit %}
+        {% else %}
+          {% assign branch = 'main' %}
+        {% endif %}
+        <p>
+          <a href="{{ site.github.repository_url }}/edit/{{ branch }}/{{ page.path }}">
+            <i class="fas fa-edit"></i> Edit this page
+          </a>
+        </p>
       {% endif %}
     </div>
   </div>
 </footer>
 
-<script src="{{ '/assets/theme/js/jquery.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/theme/js/popper.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/theme/js/bootstrap.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/theme/js/anchor.min.js' | relative_url }}"></script>
-<script src="https://cdn.jsdelivr.net/npm/jdenticon@2.2.0" async></script>
-
 <script>
   // Show anchors when hovering over headings, using anchor.js
   (function () {
@@ -105,31 +123,3 @@
     anchors.add(headings);
   })();
 </script>
-
-{% if page.layout == 'archive' %}
-<script>
-  // Filter cards on ?category=value
-  $(document).ready(function() {
-    const urlParams = new URLSearchParams(window.location.search);
-    
-    if (urlParams.has("category") && urlParams.get("category") != "") {
-      const category = urlParams.get("category"); // Will return 1st category value + decode URI
-      const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
-      
-      $(".card").each(function() {
-        const cardCategories = $(this).data("categories").split("|");
-        // Hide card if it does not contain the selected category
-        if (!cardCategories.includes(cleanCategory)) {
-          $(this).parent().addClass("d-none");
-        }
-      });
-
-      $(".jumbotron .categories").append(
-        '<a class="badge badge-pill" href="{{ site.archive_permalink | relative_url }}">' + 
-        category + '<span class="close">&times;</span>' + 
-        '</a>'
-      );
-    }
-  });
-</script>
-{% endif %}

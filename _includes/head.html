@@ -1,14 +1,4 @@
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168416704-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-168416704-1');
-</script>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -17,23 +7,63 @@
   {% else %}
     <title>{{ page.title }} - {{ site.title }}</title>
   {% endif %}
-  
-  <meta name="description" content="{{ site.description }}">
-  <meta name="author" content="{{ site.author }}">
 
-  <!-- CSS -->
-  <!-- Bootstrap is included in main.css -->
+  {% comment %}Deprecated variables{% endcomment %} 
+  {% if site.email %}
+    {% assign site.social.email = site.email %}
+  {% endif %}
+  {% if site.twitter_username %}
+    {% assign site.social.twitter = site.twitter_username %}
+  {% endif %}
+  {% if site.github_username %}
+    {% assign site.social.github = site.github_username %}
+  {% endif %}
+
+  {% if page.description %}
+    {% assign description = page.description | markdownify | strip_html | newline_to_br | split: '<br />' | first %}
+  {% endif %}
+  {% if description %}
+    <meta name="description" content="{{ description }}">
+  {% endif %}
+  {% if page.author %}
+    {% assign author = page.author | join: ", " %}
+  {% else %}
+    {% assign author = site.author %}
+  {% endif %}
+  {% if author %}
+    <meta name="author" content="{{ author }}">
+  {% endif %}
+  {% if site.remote_theme %}
+    <meta name="generator" content="Jekyll, theme: {{ site.remote_theme }}">
+  {% endif %}
+
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="{% if page.collection == 'posts' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ page.title }}">
+  {% if description %}
+    <meta property="og:description" content="{{ description }}">
+  {% endif %}
+  {% if page.background.first %}
+    {% assign background = page.background.img %}
+  {% else %}
+    {% assign background = page.background %}
+  {% endif %}
+  {% if background %}
+    <meta property="og:image" content="{{ background | absolute_url }}">
+  {% endif %}
+
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
+  <!-- Bootstrap CSS is included in main.css -->
   <link rel="stylesheet" href="{{ '/assets/theme/css/main.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/theme/css/font-awesome.min.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/theme/css/fontawesome-all.min.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/theme/css/academicons.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/theme/css/pygments.css' | relative_url }}">
-
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
-
-  <!-- Feeds -->
+  {% if site.font_serif != false %}
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - RSS feed" href="{{ '/feed.xml' | absolute_url }}" >
-
-  <!-- Netlify Idetity Widget -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
+  <!-- Javascript libraries: loaded at top so templates can use these -->
+  <script src="{{ '/assets/theme/js/jquery.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/theme/js/popper.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/theme/js/bootstrap.min.js' | relative_url }}"></script>
 </head>
